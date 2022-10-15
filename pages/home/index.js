@@ -10,7 +10,6 @@ import All from "../../components/Footer/All";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import styles from "./index.module.css";
-//import Image from "next/image";
 import SliderServices from "../../components/Consultoria/SliderServices";
 import ES from "./es.json";
 import RRSS from "../../components/RRSS/RRSS";
